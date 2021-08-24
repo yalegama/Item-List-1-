@@ -1,0 +1,10 @@
+.box {
+  background-color: aqua;
+  width: 60%;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.image :hover {
+  width: 50%;
+}
